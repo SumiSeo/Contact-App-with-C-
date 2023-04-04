@@ -11,7 +11,9 @@ namespace MySuperFlight
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My super contact app");
+          Flight Passenger = new Flight("Sum Seo", "+33767234982", "M31994828");
+            Console.WriteLine(Passenger.UserName);
         }
     }
+    
 }

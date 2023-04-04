@@ -32,7 +32,6 @@ namespace MySuperFlight
 
 		}
 
-        //modify contact info
         public void ModifyFlight()
 		{
 
