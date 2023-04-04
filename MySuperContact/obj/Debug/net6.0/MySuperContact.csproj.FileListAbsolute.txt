@@ -1,0 +1,15 @@
+/Users/sumi/Projects/MySuperContact/MySuperContact/bin/Debug/net6.0/MySuperContact
+/Users/sumi/Projects/MySuperContact/MySuperContact/bin/Debug/net6.0/MySuperContact.deps.json
+/Users/sumi/Projects/MySuperContact/MySuperContact/bin/Debug/net6.0/MySuperContact.runtimeconfig.json
+/Users/sumi/Projects/MySuperContact/MySuperContact/bin/Debug/net6.0/MySuperContact.dll
+/Users/sumi/Projects/MySuperContact/MySuperContact/bin/Debug/net6.0/MySuperContact.pdb
+/Users/sumi/Projects/MySuperContact/MySuperContact/obj/Debug/net6.0/MySuperContact.csproj.AssemblyReference.cache
+/Users/sumi/Projects/MySuperContact/MySuperContact/obj/Debug/net6.0/MySuperContact.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumi/Projects/MySuperContact/MySuperContact/obj/Debug/net6.0/MySuperContact.AssemblyInfoInputs.cache
+/Users/sumi/Projects/MySuperContact/MySuperContact/obj/Debug/net6.0/MySuperContact.AssemblyInfo.cs
+/Users/sumi/Projects/MySuperContact/MySuperContact/obj/Debug/net6.0/MySuperContact.csproj.CoreCompileInputs.cache
+/Users/sumi/Projects/MySuperContact/MySuperContact/obj/Debug/net6.0/MySuperContact.dll
+/Users/sumi/Projects/MySuperContact/MySuperContact/obj/Debug/net6.0/refint/MySuperContact.dll
+/Users/sumi/Projects/MySuperContact/MySuperContact/obj/Debug/net6.0/MySuperContact.pdb
+/Users/sumi/Projects/MySuperContact/MySuperContact/obj/Debug/net6.0/MySuperContact.genruntimeconfig.cache
+/Users/sumi/Projects/MySuperContact/MySuperContact/obj/Debug/net6.0/ref/MySuperContact.dll
