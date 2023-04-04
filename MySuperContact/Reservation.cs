@@ -1,9 +1,13 @@
 ﻿using System;
 namespace MySuperContact
 {
-	public class Reservatioin
+	public class Reservation
 	{
-		public Reservatioin()
+		public DateTime Date { get; }
+		public String Destination { get; set; }
+		public String Passport { get; }
+
+		public Reservation()
 		{
 		}
 	}

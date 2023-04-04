@@ -10,10 +10,10 @@ namespace MySuperFlight
 		public String UserPhoneNumber { get; set; }
 		public String UserPassport { get; set; }
 
-		public Flight(string name, string number, string address)
+        //contstruct function
+        public Flight(string name, string number, string address)
 
 		{
-			//contstruct function
 			UserName = name;
 			UserPhoneNumber = number;
 			UserPassport = address;
