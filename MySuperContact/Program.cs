@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Xml.Linq;
 
 //What is namespace , group and organize code
-namespace MySuperContact
+namespace MySuperFlight
 {
     class Program
     {
