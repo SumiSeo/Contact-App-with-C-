@@ -9,6 +9,7 @@ namespace MySuperFlight
 		public String UserName { get; set; }
 		public String UserPhoneNumber { get; set; }
 		public String UserPassport { get; set; }
+		public Decimal ReservationNumber { get; }
 
         //contstruct function
         public Flight(string name, string number, string address)

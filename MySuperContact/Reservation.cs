@@ -4,11 +4,14 @@ namespace MySuperContact
 	public class Reservation
 	{
 		public DateTime Date { get; }
-		public String Destination { get; set; }
-		public String Passport { get; }
+		public String? Destination { get; set; }
+		public Decimal ReservNumber { get; }
 
-		public Reservation()
+		public Reservation(DateTime date, String country, Decimal number)
 		{
+			Date = date;
+			ReservNumber = number;
+			Destination = country;
 		}
 	}
 }
