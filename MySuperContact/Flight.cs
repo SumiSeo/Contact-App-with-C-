@@ -6,18 +6,21 @@ namespace MySuperFlight
 	public class Flight
 	{
 
-		public String UserName { get; set; }
-		public String UserPhoneNumber { get; set; }
-		public String UserPassport { get; set; }
-		public Decimal ReservationNumber { get; }
+		public string Owner { get; }
+		public string PassportNumber { get; }
+		public string ReservationStatus
+		{
+			get;set; 
+		}
+		private string ReservationNumber { get; }
 
         //contstruct function
-        public Flight(string name, string number, string address)
+        public Flight(string name, string number, string status)
 
 		{
-			UserName = name;
-			UserPhoneNumber = number;
-			UserPassport = address;
+			Owner = name;
+			PassportNumber = number;
+			ReservationStatus = status;
 		}
 
 

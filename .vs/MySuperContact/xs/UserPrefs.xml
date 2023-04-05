@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{65DF2BF6-4264-42A9-B0C8-020DD4A9F5E0}|Default">
-  <MonoDevelop.Ide.ItemProperties.MySuperContact FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySuperContact/Program.cs">
+    <Files>
+      <File FileName="MySuperContact/Program.cs" Line="15" Column="51" />
+      <File FileName="MySuperContact/Contact.cs" Line="13" Column="1" />
+      <File FileName="MySuperContact/Reservatioin.cs" Line="12" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MySuperContact" expanded="True">
+            <Node name="MySuperContact" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MySuperContact PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

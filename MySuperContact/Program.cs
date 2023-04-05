@@ -11,7 +11,7 @@ namespace MySuperFlight
     {
         static void Main(string[] args)
         {
-          Flight Passenger = new Flight("Sum Seo", "+33767234982", "M31994828");
+          Flight Passenger = new Flight("Sumi Seo", "+33767234982", "M31994828");
             Console.WriteLine(Passenger.UserName);
         }
     }
