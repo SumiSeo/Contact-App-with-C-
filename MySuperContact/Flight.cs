@@ -10,17 +10,18 @@ namespace MySuperFlight
 		public string PassportNumber { get; }
 		public string ReservationStatus
 		{
-			get;set; 
-		}
-		private string ReservationNumber { get; }
+			get; set;
+		} = "nonbooked";
+
+        private static int ReservationNumber = 1234567890;
 
         //contstruct function
-        public Flight(string name, string number, string status)
+
+        public Flight(string name, string number)
 
 		{
 			Owner = name;
 			PassportNumber = number;
-			ReservationStatus = status;
 		}
 
 
