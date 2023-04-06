@@ -5,13 +5,14 @@ namespace MySuperFlight;
 public class Reservation
 {
 	public DateTime Date { get; }
-	public String? Destination { get; }
+	public string? Destination { get; }
+	public decimal ReservationNumber { get; }
 
-	public Reservation(DateTime date, String country)
+	public Reservation(DateTime date, string country, decimal number)
 	{
 		Date = date;
 		Destination = country;
-
+		ReservationNumber = number;
 	}
 }
 
