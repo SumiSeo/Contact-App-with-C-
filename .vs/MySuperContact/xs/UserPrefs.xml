@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{65DF2BF6-4264-42A9-B0C8-020DD4A9F5E0}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MySuperContact/Program.cs">
     <Files>
-      <File FileName="MySuperContact/Program.cs" Line="15" Column="51" />
-      <File FileName="MySuperContact/Contact.cs" Line="13" Column="1" />
-      <File FileName="MySuperContact/Reservatioin.cs" Line="12" Column="16" />
+      <File FileName="MySuperContact/Program.cs" Line="24" Column="2" />
+      <File FileName="MySuperContact/Reservation.cs" />
+      <File FileName="MySuperContact/Flight.cs" Line="48" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,16 +16,12 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MySuperContact PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MySuperContact PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
