@@ -20,13 +20,11 @@ namespace MySuperFlight
             Console.WriteLine(Passenger1.Owner);
             Console.WriteLine(Passenger1.PassportNumber);
             Console.WriteLine(Passenger1.ReservationStatus);
-            //Passenger1.BookFlight(Passenger1.PassportNumber, "Korea");
+            Passenger1.BookFlight(Passenger1.PassportNumber, "Korea");
             Console.WriteLine($"{Passenger1.Owner} holding Passport Number {Passenger1.PassportNumber} just {Passenger1.ReservationStatus}.");
-            Flight Passenger2 = new Flight("Paul Fournet", "P31994829");
 
-            Console.WriteLine(Passenger2.ReservationNumber);
 
-          
+
 
         }
     }

@@ -8,7 +8,7 @@ public class Reservation
 	public string? Destination { get; }
 	public decimal ReservationNumber { get; }
 
-	public Reservation(DateTime date, string country, decimal number)
+	public Reservation(DateTime date, string? country, decimal number)
 	{
 		Date = date;
 		Destination = country;
